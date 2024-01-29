@@ -35,8 +35,11 @@
 
 ![AdventureTimeGIF](https://github.com/AaronDreyer/AaronDreyer/assets/119372735/1bcd9d76-db10-4774-ba6e-9d7bd1ff0fb9)
 
-## *Portfolio* 📝
+## *Stats* 📝
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AaronDreyer&theme=tokyonight)](https://git.io/streak-stats)
+
+![TrophyStats](https://github-profile-trophy.vercel.app/?username=AaronDreyer&theme=tokyonight&row=1&column=5)
 
 <details>
  <summary><h3>My Journey</h3></summary>

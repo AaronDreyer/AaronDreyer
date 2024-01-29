@@ -37,5 +37,5 @@
 
 ![AdventureTimeGIF](https://github.com/AaronDreyer/AaronDreyer/assets/119372735/1bcd9d76-db10-4774-ba6e-9d7bd1ff0fb9)
 
-details>
+<details>
  <summary><h3>My Journey</h3></summary>

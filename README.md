@@ -43,3 +43,4 @@
 
 <details>
  <summary><h3>My Journey</h3></summary>
+My journey started with me moving to Atlanta to pursue a job in Polymer and Color Chemistry using my degree in Textiles. Although I excelled in the lab environment I found myself feeling constantly unstimulated and empty from my success. After much inner conflict, I decided to take a risk and leave my job and pursue something different. Shortly after I stumbled upon coding/programming. A instantly fell in love and starting teaching myself using platforms such as Codecademy. Out of the blue, I got recommended to attend the Georgia Tech Coding Bootcamp and decided I was going all in. Since then I have graduated and continued my education so I can finally start my career in Web Development. I now work on personal projects, work with a mentor to stay motivated, and apply to jobs in Atlanta!

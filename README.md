@@ -7,14 +7,14 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-## About 📖
+## *About Me* 📖
 
 - 🔭 I’m currently working on a Facebook Clone (Social Media App) for Gamers!
 - 🌱 I’m currently learning Phaser 3 Gaming Framework
 - 👯 I’m looking to collaborate on a 2D RPG game!
 - ⚡ Fun fact: I have a Bachelors Degree in Textile Technology
 
-## Languages and Tools ⚙️
+## *Languages and Tools* ⚙️
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -32,7 +32,7 @@
 <img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
 
-## Portfolio 📝
+## *Portfolio* 📝
 
 [website]: https://career-portfolio-510c74a38c5c.herokuapp.com/
 

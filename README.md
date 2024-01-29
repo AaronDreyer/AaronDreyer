@@ -9,7 +9,13 @@
 
 ## About 📖
 
+- 🔭 I’m currently working on a Facebook Clone (Social Media App) for Gamers!
+- 🌱 I’m currently learning Phaser 3 Gaming Framework
+- 👯 I’m looking to collaborate on a 2D RPG game!
+- ⚡ Fun fact: I have a Bachelors Degree in Textile Technology
+
 ## Languages and Tools ⚙️
+
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -27,22 +33,9 @@
 
 ## Portfolio 📝
 
-## My Journey 
+[website]: https://career-portfolio-510c74a38c5c.herokuapp.com/
 
 ![AdventureTimeGIF](https://github.com/AaronDreyer/AaronDreyer/assets/119372735/1bcd9d76-db10-4774-ba6e-9d7bd1ff0fb9)
 
-
-<!--
-**AaronDreyer/AaronDreyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+details>
+ <summary><h3>My Journey</h3></summary>
